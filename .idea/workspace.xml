@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfb9023a-60e5-42d1-8cc4-d920f4b42851" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/bg.jpg" afterPath="$PROJECT_DIR$/app/img/bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/callout.jpg" afterPath="$PROJECT_DIR$/app/img/callout.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/main.html" afterPath="$PROJECT_DIR$/app/views/main.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/img/bg.jpg" afterPath="$PROJECT_DIR$/img/bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/img/callout.jpg" afterPath="$PROJECT_DIR$/img/callout.jpg" />
     </list>
     <ignored path="IGuessItNeedsAName.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,14 +35,14 @@
         </entry>
       </file>
       <file leaf-file-name="callout.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/img/callout.jpg">
+        <entry file="file://$PROJECT_DIR$/img/callout.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="bg.jpg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/img/bg.jpg">
+        <entry file="file://$PROJECT_DIR$/img/bg.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -181,24 +179,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IGuessItNeedsAName" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IGuessItNeedsAName" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -218,6 +198,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app/img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -285,12 +266,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496592932262</updated>
-      <workItem from="1496592933938" duration="3115000" />
+      <workItem from="1496592933938" duration="3196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3115000" />
+    <option name="totallyTimeSpent" value="3196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="24" width="1437" height="823" extended-state="6" />
@@ -383,12 +364,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/callout.jpg">
+    <entry file="file://$PROJECT_DIR$/img/callout.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/bg.jpg">
+    <entry file="file://$PROJECT_DIR$/img/bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
